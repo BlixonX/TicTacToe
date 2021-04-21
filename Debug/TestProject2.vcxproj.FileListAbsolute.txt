@@ -1,0 +1,2 @@
+C:\Users\Blixon\source\repos\TestProject2\Debug\TestProject2.exe
+C:\Users\Blixon\source\repos\TestProject2\Debug\TestProject2.pdb
